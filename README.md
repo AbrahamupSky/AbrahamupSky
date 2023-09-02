@@ -17,9 +17,6 @@ Currently working on my own projects.<br>Use React & NodeJS as frameworks from w
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbrahamupSky&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AbrahamupSky&icon=2&color=1)](https://visitcount.itsvg.in)
 
