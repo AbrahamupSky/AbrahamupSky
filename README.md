@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on my own projects. (Web applications SaaS).<br>🌱 Use Django & ReactJS as frameworks from web development.<br>🤝 Continuous learning in web development.<br>💬 Spanish (native) and English (B2)<br>👨‍🎓 Graduated from university and in the process of graduation.<br>⚡ Work on MacOS, Windows & Linux as OS
+🔭 Currently working on my own projects. (Web applications SaaS).<br>🌱 Use Django & ReactJS as frameworks from web development.<br>🤝 Continuous learning in web development.<br>💬 Spanish (native) and English<br>👨‍🎓 Graduated from university and in the process of graduation.<br>⚡ Work on MacOS, Windows & Linux as OS
 
 
 ## 🌐 Socials:
